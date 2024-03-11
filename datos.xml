@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <nombre>usuario1</nombre>
+    <email>usuario1@gmail.com</email>
+    <contrasena>Passw0rd</contrasena>
+  </usuario>
+  <usuario>
+    <nombre>usuario2</nombre>
+    <email>usuario2@gmail.com</email>
+    <contrasena>Passw0rd</contrasena>
+  </usuario>
+  <user>
+    <username>usuario14324244</username>
+    <password>Passw0rd</password>
+    <email>usuario1@gmail.com</email>
+  </user>
+  <usuario>
+    <nombre>usuario1fwwfwfw</nombre>
+    <contrasena>Passw0rd</contrasena>
+    <email>asieruranga2@gmail.com</email>
+  </usuario>
+</usuarios>
